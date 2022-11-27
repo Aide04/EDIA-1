@@ -1,0 +1,58 @@
+
+body {
+    background-image: url(img/img_logo_edia.jpg);
+    image-rendering: 40px;
+}
+
+.form-register {
+
+    width: 400px;
+    background: rgba(233, 5, 81, 0.432);
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: rgb(250, 252, 252);
+    box-shadow: 7PX 13px 37px rgb(251, 252, 252);
+}
+
+.form-register h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.controls {
+    width: 100%;
+    background: rgba(140, 4, 252, 0.404);
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #cf4545;
+    font-family: 'calibri';
+    font-size: 18px;
+}
+.form-register p {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.form-register a {
+    color: rgb(252, 8, 8);
+    text-decoration: none;
+}
+
+.form-register a:hover {
+    color: rgb(250, 11, 11);
+    text-decoration: underline;
+}
+
+.form-register botons {
+    width: 100%;
+    background: #3f0344;
+    border: none;
+    padding: 12px;
+    color: rgb(245, 6, 173);
+    margin: 16px 0;
+    font-size: 16px;
+}
